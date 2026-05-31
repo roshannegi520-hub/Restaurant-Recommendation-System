@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417983378003",
+    "project_id": "smartrec-d02ac",
+    "storage_bucket": "smartrec-d02ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417983378003:android:9799dd161c6bc02610cca6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUoFDF3Jb-PP25n-zodSlqs1XAzmIWI68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
